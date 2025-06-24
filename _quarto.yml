@@ -2,12 +2,22 @@ project:
   type: website
 
 website:
-  title: "Final VAA"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+ title: "Group 4 Shiny App"
+ navbar:
+   left:
+   - text: "Analysis on Task 1"
+     href: "Analysis/Analysis_01/Analysis_01.html"
+   - text: "Analysis on Task 2"
+     href: "Analysis/Analysis_02/Analysis_02.html"
+   - text: "Analysis on Task 3"
+     href: "Analysis/Analysis_03/Analysis_03.html"
+   - text: "Data"
+     href: "Analysis/Data/Data.html"
+         
+   right:
+     - href: index.qmd
+       text: Home
+     - about.qmd
 
 format:
   html:
