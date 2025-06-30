@@ -100,7 +100,7 @@ The analysis and results presented in the Shiny App were derived from the earlie
 
 -   [Lester_Take-Home Exercise 1](https://lesteronthecouchisss608.netlify.app/take-home_ex/take-home_ex02/take-home_ex02)
 
--   [MGTR Take-Home Exercise 1](#0){style="font-size: 11pt;"}.
+-   [MGTR Take-Home Exercise 1](https://isss608-ay2024-2025.netlify.app/take-home_ex/take-home_ex01/take-home_ex01){style="font-size: 11pt;"}
 
 In that exercise, we performed the core influence and collaboration analyses on Sailor Shift and the Oceanus Folk genre, generating key visual outputs and data summaries.
 
