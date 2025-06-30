@@ -1,5 +1,13 @@
 ---
-title: "Group 4 Shiny App"
+title: "Sailor Shift Journey"
 ---
 
-Welcome to our final project on Shiny App.
+Welcome to our final project on Sailor Shift Musical Journey Analysis.
+
+# Introduction
+
+# Team
+
+# Software & Tools
+
+# References

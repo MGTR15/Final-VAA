@@ -2,17 +2,17 @@ project:
   type: website
 
 website:
- title: "Group 4 Shiny App"
+ title: "Sailor Shift - From Nobody to Somebody"
  navbar:
    left:
-   - text: "Analysis on Task 1"
-     href: "Analysis/Analysis_01/Analysis_01.html"
-   - text: "Analysis on Task 2"
-     href: "Analysis/Analysis_02/Analysis_02.html"
-   - text: "Analysis on Task 3"
-     href: "Analysis/Analysis_03/Analysis_03.html"
-   - text: "Data"
-     href: "Analysis/Data/Data.html"
+   - text: "Project Overview"
+     href: "Analysis/Analysis_01/Project_Overview.html"
+   - text: "Application"
+     href: "Analysis/Analysis_02/Application.html"
+   - text: "Poster"
+     href: "Analysis/Analysis_03/Poster.html"
+   - text: "User Guide"
+     href: "Analysis/Data/User_Guide.html"
          
    right:
      - href: index.qmd

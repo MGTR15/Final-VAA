@@ -1,0 +1,16 @@
+---
+title: "User Guide"
+author: "Group 04"
+date: "June 30 2025"
+date-modified: "June 30 2025"
+execute: 
+  eval: true
+  echo: true
+  warning: false
+  freeze: true
+---
+
+### 📄 Download Poster
+
+You can download the user guide for our shiny app here:\
+[📥 Download User Guide (PDF)](downloadpdf/User_Guide_ShinyApp.pdf)

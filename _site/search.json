@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Group 4 Shiny App",
+    "title": "Sailor Shift Journey",
     "section": "",
-    "text": "Welcome to our final project on Shiny App."
+    "text": "Welcome to our final project on Sailor Shift Musical Journey Analysis.\n\nIntroduction\n\n\nTeam\n\n\nSoftware & Tools\n\n\nReferences"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Analysis/Analysis_02/Application.html",
+    "href": "Analysis/Analysis_02/Application.html",
+    "title": "Application",
+    "section": "",
+    "text": "The Application is available at Sailor Shift Musical Journey.\nThe source code and data are available at Github."
+  },
+  {
+    "objectID": "Analysis/Data/User_Guide.html",
+    "href": "Analysis/Data/User_Guide.html",
+    "title": "User Guide",
+    "section": "",
+    "text": "📄 Download Poster\nYou can download the user guide for our shiny app here:\n📥 Download User Guide (PDF)"
+  },
+  {
+    "objectID": "Analysis/Analysis_01/Project_Overview.html",
+    "href": "Analysis/Analysis_01/Project_Overview.html",
+    "title": "Project Overview",
+    "section": "",
+    "text": "Overview (Project description, motivation, objectives)\n\n\nStoryboards ()\n\n\nAnalysis and Results ()\n\n\nMeeting Minutes ()"
   }
 ]
