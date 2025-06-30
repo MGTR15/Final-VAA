@@ -10,7 +10,7 @@ execute:
   freeze: true
 ---
 
-### 📄 Download Poster
+### 📄 Download User Guide
 
 You can download the user guide for our shiny app here:\
 [📥 Download User Guide (PDF)](downloadpdf/User_Guide_ShinyApp.pdf)
