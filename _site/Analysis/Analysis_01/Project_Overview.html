@@ -133,8 +133,16 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#overview-project-description-motivation-objectives" id="toc-overview-project-description-motivation-objectives" class="nav-link active" data-scroll-target="#overview-project-description-motivation-objectives">Overview (Project description, motivation, objectives)</a></li>
-  <li><a href="#storyboards" id="toc-storyboards" class="nav-link" data-scroll-target="#storyboards">Storyboards ()</a></li>
-  <li><a href="#analysis-and-results" id="toc-analysis-and-results" class="nav-link" data-scroll-target="#analysis-and-results">Analysis and Results ()</a></li>
+  <li><a href="#storyboards" id="toc-storyboards" class="nav-link" data-scroll-target="#storyboards">Storyboards</a>
+  <ul class="collapse">
+  <li><a href="#performer-influence-type-breakdown" id="toc-performer-influence-type-breakdown" class="nav-link" data-scroll-target="#performer-influence-type-breakdown">Performer Influence Type Breakdown</a></li>
+  <li><a href="#collaborations-data-table" id="toc-collaborations-data-table" class="nav-link" data-scroll-target="#collaborations-data-table">Collaborations Data Table</a></li>
+  <li><a href="#influenced-collaborators-network-graph" id="toc-influenced-collaborators-network-graph" class="nav-link" data-scroll-target="#influenced-collaborators-network-graph">Influenced Collaborators’ Network Graph</a></li>
+  <li><a href="#influence-path-filter" id="toc-influence-path-filter" class="nav-link" data-scroll-target="#influence-path-filter">Influence Path Filter</a></li>
+  <li><a href="#career-comparison" id="toc-career-comparison" class="nav-link" data-scroll-target="#career-comparison">Career Comparison</a></li>
+  <li><a href="#predicted-future-stars" id="toc-predicted-future-stars" class="nav-link" data-scroll-target="#predicted-future-stars">Predicted Future Stars</a></li>
+  </ul></li>
+  <li><a href="#analysis-and-results" id="toc-analysis-and-results" class="nav-link" data-scroll-target="#analysis-and-results">Analysis and Results</a></li>
   <li><a href="#meeting-minutes" id="toc-meeting-minutes" class="nav-link" data-scroll-target="#meeting-minutes">Meeting Minutes ()</a></li>
   </ul>
 </nav>
@@ -183,10 +191,93 @@ ul.task-list li input[type="checkbox"] {
 <h1>Overview (Project description, motivation, objectives)</h1>
 </section>
 <section id="storyboards" class="level1">
-<h1>Storyboards ()</h1>
+<h1>Storyboards</h1>
+<p>These early storyboard sketches serves as a visual and narrative walkthrough of the user interface (UI) design and analytical features embedded within our Shiny dashboard prototype. It bridges the gap between the data-driven research on Sailor Shift’s musical influence and the user’s interactive experience.</p>
+<p>The purpose of storyboard is twofold:</p>
+<ul>
+<li><p>To illustrate how different UI components guide the user through data exploration.</p></li>
+<li><p>To explain how specific visualizations, filters, and graphs contribute to uncovering insights about collaborations and influence patterns in the Oceanus Folk music scene.</p></li>
+</ul>
+<p>The dashboard were designed thoughtfully around three key analytical perspectives:</p>
+<ul>
+<li><p>Influence Overview – exploring how Sailor Shift was influenced throughout her career.</p></li>
+<li><p>Collaborators Table View – examining who she worked with and who she later influenced.</p></li>
+<li><p>Influence Network Graph – mapping the spread of her artistic impact across multiple degrees of separation.</p></li>
+</ul>
+<section id="performer-influence-type-breakdown" class="level3">
+<h3 class="anchored" data-anchor-id="performer-influence-type-breakdown">Performer Influence Type Breakdown</h3>
+<p>This tab introduces users to the different influence types that shaped Sailor Shift’s musical career over time.</p>
+<p><img src="images/Wireframe Flowchart Whiteboard.png" class="img-fluid"></p>
+</section>
+<section id="collaborations-data-table" class="level3">
+<h3 class="anchored" data-anchor-id="collaborations-data-table">Collaborations Data Table</h3>
+<p>This tab shows artists who collaborated with Sailor Shift by co-performing songs.</p>
+<p><img src="images/Wireframe Flowchart Whiteboard (1).png" class="img-fluid"></p>
+</section>
+<section id="influenced-collaborators-network-graph" class="level3">
+<h3 class="anchored" data-anchor-id="influenced-collaborators-network-graph">Influenced Collaborators’ Network Graph</h3>
+<p>This tab visualizes how Sailor Shift’s songs have influenced Oceanus Folk collaborators across multiple steps of influence.</p>
+<p><img src="images/Wireframe Flowchart Whiteboard (2).png" class="img-fluid"></p>
+<p>Network graph with three node types:</p>
+<ul>
+<li><p>Sailor Shift’s songs (blue)</p></li>
+<li><p>Influenced songs (yellow)</p></li>
+<li><p>Collaborator names (green)</p></li>
+</ul>
+<p>Edge styles:</p>
+<ul>
+<li><p>Blue arrows represent musical influence</p></li>
+<li><p>Green arrows represent song collaboration</p></li>
+</ul>
+<p>Edge labels indicate the number of hops from Sailor’s song to the influenced collaborator.</p>
+</section>
+<section id="influence-path-filter" class="level3">
+<h3 class="anchored" data-anchor-id="influence-path-filter">Influence Path Filter</h3>
+<p>A dropdown below the graph allows users to adjust the depth of influence shown:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Option</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Direct Only</td>
+<td>Show only 1-hop direct influences</td>
+</tr>
+<tr class="even">
+<td>2 Hops</td>
+<td>Include 1 level of indirect influence</td>
+</tr>
+<tr class="odd">
+<td>3+ Hops</td>
+<td>Full multi-hop influence tracing</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="career-comparison" class="level3">
+<h3 class="anchored" data-anchor-id="career-comparison">Career Comparison</h3>
+<p>This tab uses time-series visualizations to compare how Sailor Shift, Kimberly Snyder, and Ping Tian evolved over time.</p>
+<p><img src="images/Career Compare.png" class="img-fluid"></p>
+</section>
+<section id="predicted-future-stars" class="level3">
+<h3 class="anchored" data-anchor-id="predicted-future-stars">Predicted Future Stars</h3>
+<p>This final tab highlights artists predicted to become influential within the Oceanus Folk scene, based on their current trajectory and composite score.</p>
+<p>UI Features:</p>
+<ul>
+<li><p>A ranked table shows the top predicted artist, sorted by final_score.</p></li>
+<li><p>Columns: ID, Artist Name, Final Score</p></li>
+<li><p>A Select Year dropdown enables users to simulate predictions by future periods or filter emerging talent pools dynamically.</p></li>
+</ul>
+<p><img src="images/Predict.png" class="img-fluid"></p>
+</section>
 </section>
 <section id="analysis-and-results" class="level1">
-<h1>Analysis and Results ()</h1>
+<h1>Analysis and Results</h1>
+<p>The analysis and results presented in the Shiny App were derived from the earlier exploration and data analysis conducted in <a href="https://isss608-ay2024-2025.netlify.app/take-home_ex/take-home_ex01/take-home_ex01">MGTR Take-Home Exercise 1</a>. In that exercise, we performed the core influence and collaboration analyses on Sailor Shift and the Oceanus Folk genre, generating key visual outputs and data summaries.</p>
+<p>To streamline the development of the interactive dashboard, the processed datasets and visual outputs were exported as .rds files. These R data files served as the foundation for the Shiny App’s dynamic visualizations and dashboards. This approach allowed us to focus on effective storytelling and interactivity in the Shiny App.</p>
 </section>
 <section id="meeting-minutes" class="level1">
 <h1>Meeting Minutes ()</h1>

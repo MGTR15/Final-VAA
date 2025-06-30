@@ -12,8 +12,92 @@ execute:
 
 # Overview (Project description, motivation, objectives)
 
-# Storyboards ()
+# Storyboards
 
-# Analysis and Results ()
+These early storyboard sketches serves as a visual and narrative walkthrough of the user interface (UI) design and analytical features embedded within our Shiny dashboard prototype. It bridges the gap between the data-driven research on Sailor Shift’s musical influence and the user’s interactive experience.
+
+The purpose of storyboard is twofold:
+
+-   To illustrate how different UI components guide the user through data exploration.
+
+-   To explain how specific visualizations, filters, and graphs contribute to uncovering insights about collaborations and influence patterns in the Oceanus Folk music scene.
+
+The dashboard were designed thoughtfully around three key analytical perspectives:
+
+-   Influence Overview – exploring how Sailor Shift was influenced throughout her career.
+
+-   Collaborators Table View – examining who she worked with and who she later influenced.
+
+-   Influence Network Graph – mapping the spread of her artistic impact across multiple degrees of separation.
+
+### Performer Influence Type Breakdown
+
+This tab introduces users to the different influence types that shaped Sailor Shift's musical career over time.
+
+![](images/Wireframe%20Flowchart%20Whiteboard.png)
+
+### Collaborations Data Table
+
+This tab shows artists who collaborated with Sailor Shift by co-performing songs.
+
+![](images/Wireframe%20Flowchart%20Whiteboard%20(1).png)
+
+### Influenced Collaborators’ Network Graph
+
+This tab visualizes how Sailor Shift’s songs have influenced Oceanus Folk collaborators across multiple steps of influence.
+
+![](images/Wireframe%20Flowchart%20Whiteboard%20(2).png)
+
+Network graph with three node types:
+
+-   Sailor Shift's songs (blue)
+
+-   Influenced songs (yellow)
+
+-   Collaborator names (green)
+
+Edge styles:
+
+-   Blue arrows represent musical influence
+
+-   Green arrows represent song collaboration
+
+Edge labels indicate the number of hops from Sailor’s song to the influenced collaborator.
+
+### Influence Path Filter
+
+A dropdown below the graph allows users to adjust the depth of influence shown:
+
+| Option      | Description                           |
+|-------------|---------------------------------------|
+| Direct Only | Show only 1-hop direct influences     |
+| 2 Hops      | Include 1 level of indirect influence |
+| 3+ Hops     | Full multi-hop influence tracing      |
+
+### Career Comparison
+
+This tab uses time-series visualizations to compare how Sailor Shift, Kimberly Snyder, and Ping Tian evolved over time.
+
+![](images/Career%20Compare.png)
+
+### Predicted Future Stars
+
+This final tab highlights artists predicted to become influential within the Oceanus Folk scene, based on their current trajectory and composite score.
+
+UI Features:
+
+-   A ranked table shows the top predicted artist, sorted by final_score.
+
+-   Columns: ID, Artist Name, Final Score
+
+-   A Select Year dropdown enables users to simulate predictions by future periods or filter emerging talent pools dynamically.
+
+![](images/Predict.png)
+
+# Analysis and Results
+
+The analysis and results presented in the Shiny App were derived from the earlier exploration and data analysis conducted in [MGTR Take-Home Exercise 1](https://isss608-ay2024-2025.netlify.app/take-home_ex/take-home_ex01/take-home_ex01). In that exercise, we performed the core influence and collaboration analyses on Sailor Shift and the Oceanus Folk genre, generating key visual outputs and data summaries.
+
+To streamline the development of the interactive dashboard, the processed datasets and visual outputs were exported as .rds files. These R data files served as the foundation for the Shiny App’s dynamic visualizations and dashboards. This approach allowed us to focus on effective storytelling and interactivity in the Shiny App.
 
 # Meeting Minutes ()
