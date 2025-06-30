@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+You can contact us if you have any questions:
 
-```{r}
-1 + 1
-```
+*Peng Hsiao Yuan - hy.peng.2024\@mitb.smu.edu.sg*
+
+*Marga Thura - marga.thura.2024\@mitb.smu.edu.sg*

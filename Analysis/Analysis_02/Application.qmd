@@ -10,6 +10,6 @@ execute:
   freeze: true
 ---
 
-The Application is available at [Sailor Shift Musical Journey](https://mgtr15.shinyapps.io/ShinyAppVAA_Group4/).
+The Application is available at shinyapps.io - [Sailor Shift Musical Journey](https://mgtr15.shinyapps.io/ShinyAppVAA_Group4/).
 
-The source code and data are available at [Github](https://github.com/MGTR15/ShinyAppVAA).
+The source code and data are available at - [Github](https://github.com/MGTR15/ShinyAppVAA).
