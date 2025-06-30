@@ -4,7 +4,49 @@
     "href": "index.html",
     "title": "Sailor Shift Journey",
     "section": "",
-    "text": "Welcome to our final project on Sailor Shift Musical Journey Analysis.\n\nIntroduction\n\n\nTeam\n\n\nSoftware & Tools\n\n\nReferences"
+    "text": "Welcome to our ISSS608 Visual Analytics Final Project – AY2024/25 “Sailor Shift” Musical Journey Analysis."
+  },
+  {
+    "objectID": "index.html#development-environment",
+    "href": "index.html#development-environment",
+    "title": "Sailor Shift Journey",
+    "section": "Development Environment",
+    "text": "Development Environment\nRStudio – IDE for R programming and Shiny development RStudio: https://rstudio.com/"
+  },
+  {
+    "objectID": "index.html#frameworks-dashboards",
+    "href": "index.html#frameworks-dashboards",
+    "title": "Sailor Shift Journey",
+    "section": "Frameworks & Dashboards",
+    "text": "Frameworks & Dashboards\nShiny – Interactive web applications shinydashboard – Dashboard layout framework"
+  },
+  {
+    "objectID": "index.html#data-manipulation",
+    "href": "index.html#data-manipulation",
+    "title": "Sailor Shift Journey",
+    "section": "Data Manipulation",
+    "text": "Data Manipulation\ndplyr – Data transformation tidyr – Data tidying stringr – String operations readr – Efficient data import"
+  },
+  {
+    "objectID": "index.html#visualization",
+    "href": "index.html#visualization",
+    "title": "Sailor Shift Journey",
+    "section": "Visualization",
+    "text": "Visualization\nggplot2 – Grammar of graphics plotly – Interactive plots visNetwork – Network graph visualization ggraph – Graph visualizations with tidygraph support"
+  },
+  {
+    "objectID": "index.html#network-graph-analysis",
+    "href": "index.html#network-graph-analysis",
+    "title": "Sailor Shift Journey",
+    "section": "Network & Graph Analysis",
+    "text": "Network & Graph Analysis\ntidygraph – Tidy data structure for graph data"
+  },
+  {
+    "objectID": "Analysis/Analysis_01/Project_Overview.html",
+    "href": "Analysis/Analysis_01/Project_Overview.html",
+    "title": "Project Overview",
+    "section": "",
+    "text": "Overview (Project description, motivation, objectives)\n\n\nStoryboards ()\n\n\nAnalysis and Results ()\n\n\nMeeting Minutes ()"
   },
   {
     "objectID": "about.html",
@@ -26,12 +68,5 @@
     "title": "User Guide",
     "section": "",
     "text": "📄 Download User Guide\nYou can download the user guide for our shiny app here:\n📥 Download User Guide (PDF)"
-  },
-  {
-    "objectID": "Analysis/Analysis_01/Project_Overview.html",
-    "href": "Analysis/Analysis_01/Project_Overview.html",
-    "title": "Project Overview",
-    "section": "",
-    "text": "Overview (Project description, motivation, objectives)\n\n\nStoryboards ()\n\n\nAnalysis and Results ()\n\n\nMeeting Minutes ()"
   }
 ]

@@ -132,7 +132,14 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
   <li><a href="#team" id="toc-team" class="nav-link" data-scroll-target="#team">Team</a></li>
-  <li><a href="#software-tools" id="toc-software-tools" class="nav-link" data-scroll-target="#software-tools">Software &amp; Tools</a></li>
+  <li><a href="#software-tools" id="toc-software-tools" class="nav-link" data-scroll-target="#software-tools">Software &amp; Tools</a>
+  <ul class="collapse">
+  <li><a href="#development-environment" id="toc-development-environment" class="nav-link" data-scroll-target="#development-environment">Development Environment</a></li>
+  <li><a href="#frameworks-dashboards" id="toc-frameworks-dashboards" class="nav-link" data-scroll-target="#frameworks-dashboards">Frameworks &amp; Dashboards</a></li>
+  <li><a href="#data-manipulation" id="toc-data-manipulation" class="nav-link" data-scroll-target="#data-manipulation">Data Manipulation</a></li>
+  <li><a href="#visualization" id="toc-visualization" class="nav-link" data-scroll-target="#visualization">Visualization</a></li>
+  <li><a href="#network-graph-analysis" id="toc-network-graph-analysis" class="nav-link" data-scroll-target="#network-graph-analysis">Network &amp; Graph Analysis</a></li>
+  </ul></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
@@ -159,18 +166,61 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Welcome to our final project on Sailor Shift Musical Journey Analysis.</p>
+<p>Welcome to our ISSS608 Visual Analytics Final Project – AY2024/25 “Sailor Shift” Musical Journey Analysis.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="images/Title img.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="362"></p>
+</figure>
+</div>
 <section id="introduction" class="level1">
 <h1>Introduction</h1>
+<p>Sailor Shift: From Nobody to Somebody is a visual analytics project that traces the extraordinary musical journey of Sailor Shift, an Oceanus native who rose to international stardom. Starting from humble beginnings in the Oceanus Folk genre, Sailor became a global icon through her genre-blending style, viral hits, and influential collaborations.</p>
+<p>This project explores:</p>
+<ul>
+<li><p>Who influenced Sailor’s career over time?</p></li>
+<li><p>Who did she influence directly or indirectly?</p></li>
+<li><p>How did Oceanus Folk evolve and shape the wider music world?</p></li>
+<li><p>Who are the next rising stars?</p></li>
+</ul>
+<p>Through interactive dashboards, influence networks, and genre visualizations built using R Shiny, we present insights into Sailor’s impact on music, the genre’s transformation, and the future of Oceanus Folk.</p>
 </section>
 <section id="team" class="level1">
 <h1>Team</h1>
+<p>Peng Hsiao Yuan - hy.peng.2024@mitb.smu.edu.sg</p>
+<p>Marga Thura - marga.thura.2024@mitb.smu.edu.sg</p>
 </section>
 <section id="software-tools" class="level1">
 <h1>Software &amp; Tools</h1>
+<section id="development-environment" class="level2">
+<h2 class="anchored" data-anchor-id="development-environment">Development Environment</h2>
+<p>RStudio – IDE for R programming and Shiny development RStudio: https://rstudio.com/</p>
+</section>
+<section id="frameworks-dashboards" class="level2">
+<h2 class="anchored" data-anchor-id="frameworks-dashboards">Frameworks &amp; Dashboards</h2>
+<p>Shiny – Interactive web applications shinydashboard – Dashboard layout framework</p>
+</section>
+<section id="data-manipulation" class="level2">
+<h2 class="anchored" data-anchor-id="data-manipulation">Data Manipulation</h2>
+<p>dplyr – Data transformation tidyr – Data tidying stringr – String operations readr – Efficient data import</p>
+</section>
+<section id="visualization" class="level2">
+<h2 class="anchored" data-anchor-id="visualization">Visualization</h2>
+<p>ggplot2 – Grammar of graphics plotly – Interactive plots visNetwork – Network graph visualization ggraph – Graph visualizations with tidygraph support</p>
+</section>
+<section id="network-graph-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="network-graph-analysis">Network &amp; Graph Analysis</h2>
+<p>tidygraph – Tidy data structure for graph data</p>
+</section>
 </section>
 <section id="references" class="level1">
 <h1>References</h1>
+<p>https://thehabaritanzania.netlify.app/</p>
+<p>https://wiki.smu.edu.sg/1920t2isss608/Group11_user_guide</p>
+<p>https://cran.r-project.org/web/packages/circlize/index.html</p>
+<p>https://clauswilke.com/dataviz/</p>
+<p>https://ggplot2.tidyverse.org//index.html</p>
+<p>https://isss608-ay2024-25apr.netlify.app/th_ex/mc1-kickstarter</p>
+<p>https://vast-challenge.github.io/2025/MC1.html</p>
 
 
 </section>
