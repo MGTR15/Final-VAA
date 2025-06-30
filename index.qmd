@@ -30,25 +30,39 @@ Marga Thura - marga.thura.2024\@mitb.smu.edu.sg
 
 # Software & Tools
 
-## Development Environment
+### Development Environment
 
-RStudio – IDE for R programming and Shiny development RStudio: https://rstudio.com/
+-   RStudio – IDE for R programming and Shiny development https://rstudio.com/
 
-## Frameworks & Dashboards
+### Frameworks & Dashboards
 
-Shiny – Interactive web applications shinydashboard – Dashboard layout framework
+-   Shiny – Interactive web application framework
 
-## Data Manipulation
+-   shinydashboard – Dashboard layout framework for Shiny apps
 
-dplyr – Data transformation tidyr – Data tidying stringr – String operations readr – Efficient data import
+### Data Manipulation
 
-## Visualization
+-   dplyr – Data manipulation and wrangling
 
-ggplot2 – Grammar of graphics plotly – Interactive plots visNetwork – Network graph visualization ggraph – Graph visualizations with tidygraph support
+-   tidyr – Data transformation and reshaping
 
-## Network & Graph Analysis
+-   stringr – String operations and pattern matching
 
-tidygraph – Tidy data structure for graph data
+-   readr – Efficient data import and reading
+
+### Visualization
+
+-   ggplot2 – Grammar of graphics
+
+-   plotly – Interactive plots
+
+-   visNetwork – Network graph visualization
+
+-   ggraph – Graph visualizations with tidygraph support
+
+### Network & Graph Analysis
+
+-   tidygraph – Tidy data structure for graph data
 
 # References
 

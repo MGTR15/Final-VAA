@@ -10,4 +10,6 @@ execute:
   freeze: true
 ---
 
+Our Project Poster: Sailor Shift From Nobody to Somebody
+
 ![](images/POSTER.png){fig-align="center"}
