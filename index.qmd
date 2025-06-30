@@ -4,7 +4,7 @@ title: "Sailor Shift Journey"
 
 Welcome to our ISSS608 Visual Analytics Final Project – AY2024/25 "Sailor Shift" Musical Journey Analysis.
 
-![](images/Title%20img.png){fig-align="left" width="362"}
+![](images/Intropost.png){fig-align="center" width="615"}
 
 # Introduction
 
