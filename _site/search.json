@@ -21,27 +21,6 @@
     "text": "The story centers on Sailor Shift, a global music superstar from the island nation of Oceanus. Starting in the local genre Oceanus Folk, Sailor’s success has significantly boosted the genre’s international recognition and contributed to increased tourism to Oceanus. Her journey from a small band member in Ivy Echoes to a record-breaking solo artist highlights her influence on both the music world and her former bandmates, who also continue to shape the genre.\nSailor is known for her dedication to promoting Oceanus Folk and supporting emerging artists, often through high-profile collaborations. Her evolving musical style has helped Oceanus Folk spread globally, inspiring a new generation of artists.\n\n\n\n\n\nIn 2040, local journalist Silas Reed embarks on a project titled Oceanus Folk: Then-and-Now to chronicle Sailor’s career and the genre’s growth. He has compiled a knowledge graph containing detailed data on artists, songs, albums, producers, and musical influences. The goal is to visualize and analyze this data to uncover deeper insights into Sailor’s impact and the evolution of Oceanus Folk music."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "You can contact us if you have any questions:\nPeng Hsiao Yuan - hy.peng.2024@mitb.smu.edu.sg\nMarga Thura - marga.thura.2024@mitb.smu.edu.sg"
-  },
-  {
-    "objectID": "Analysis/Analysis_02/Application.html",
-    "href": "Analysis/Analysis_02/Application.html",
-    "title": "Application",
-    "section": "",
-    "text": "The Application is available at shinyapps.io - Sailor Shift Musical Journey.\nThe source code and data are available at - Github."
-  },
-  {
-    "objectID": "Analysis/Data/User_Guide.html",
-    "href": "Analysis/Data/User_Guide.html",
-    "title": "User Guide",
-    "section": "",
-    "text": "📄 Download User Guide\nYou can download the user guide for our shiny app here:\n📥 Download User Guide (PDF)"
-  },
-  {
     "objectID": "Analysis/Analysis_01/Project_Overview.html#background",
     "href": "Analysis/Analysis_01/Project_Overview.html#background",
     "title": "Project Overview",
@@ -54,5 +33,26 @@
     "title": "Project Overview",
     "section": "",
     "text": "In 2040, local journalist Silas Reed embarks on a project titled Oceanus Folk: Then-and-Now to chronicle Sailor’s career and the genre’s growth. He has compiled a knowledge graph containing detailed data on artists, songs, albums, producers, and musical influences. The goal is to visualize and analyze this data to uncover deeper insights into Sailor’s impact and the evolution of Oceanus Folk music."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "You can contact us if you have any questions:\nPeng Hsiao Yuan - hy.peng.2024@mitb.smu.edu.sg\nMarga Thura - marga.thura.2024@mitb.smu.edu.sg"
+  },
+  {
+    "objectID": "Analysis/Analysis_02/Application.html",
+    "href": "Analysis/Analysis_02/Application.html",
+    "title": "Application",
+    "section": "",
+    "text": "The Application is available at shinyapps.io - Sailor Shift Musical Journey.\nThe source code and data are available at - Github.\nThis website repositary available at - Github."
+  },
+  {
+    "objectID": "Analysis/Data/User_Guide.html",
+    "href": "Analysis/Data/User_Guide.html",
+    "title": "User Guide",
+    "section": "",
+    "text": "📄 Download User Guide\nYou can download the user guide for our shiny app here:\n📥 Download User Guide (PDF)"
   }
 ]

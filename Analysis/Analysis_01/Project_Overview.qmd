@@ -2,7 +2,7 @@
 title: "Project Overview"
 author: "Group 04"
 date: "June 30 2025"
-date-modified: "June 30 2025"
+date-modified: "July 1st 2025"
 execute: 
   eval: true
   echo: true
@@ -18,7 +18,7 @@ execute:
 
 -   Sailor is known for her dedication to **promoting Oceanus Folk and supporting emerging artists**, often through high-profile collaborations. Her evolving musical style has helped Oceanus Folk spread globally, inspiring a new generation of artists.
 
-## Motivation 
+## Motivation
 
 -   In **2040**, local journalist **Silas Reed** embarks on a project titled *Oceanus Folk: Then-and-Now* to chronicle Sailor’s career and the genre's growth. He has compiled a **knowledge graph** containing detailed data on artists, songs, albums, producers, and musical influences. The goal is to **visualize and analyze this data** to uncover deeper insights into Sailor’s impact and the evolution of Oceanus Folk music.
 
@@ -108,9 +108,9 @@ UI Features:
 
 The analysis and results presented in the Shiny App were derived from the earlier exploration and data analysis conducted in
 
--   [Lester_Take-Home Exercise 2](https://lesteronthecouchisss608.netlify.app/take-home_ex/take-home_ex02/take-home_ex02)
+-   [MGTR Take-Home Ex2](https://isss608-ay2024-2025.netlify.app/take-home_ex/take-home_ex02/take-home_ex02)
 
--   [MGTR Take-Home Exercise 2](https://isss608-ay2024-2025.netlify.app/take-home_ex/take-home_ex02/take-home_ex02){style="font-size: 11pt;"}
+-   [Lester_Take-Home Exercise 2](https://lesteronthecouchisss608.netlify.app/take-home_ex/take-home_ex02/take-home_ex02)
 
 In that exercise, we performed the core influence and collaboration analyses on Sailor Shift and the Oceanus Folk genre, generating key visual outputs and data summaries.
 
