@@ -12,7 +12,13 @@ execute:
 
 # Overview (Project description, motivation, objectives)
 
-This is a test. This is another test.
+### Summary of Motivation and Overview
+
+The story centers on **Sailor Shift**, a global music superstar from the island nation of **Oceanus**. Starting in the local genre **Oceanus Folk**, Sailor's success has significantly boosted the genre’s international recognition and contributed to increased tourism to Oceanus. Her journey from a small band member in **Ivy Echoes** to a record-breaking solo artist highlights her influence on both the music world and her former bandmates, who also continue to shape the genre.
+
+Sailor is known for her dedication to **promoting Oceanus Folk and supporting emerging artists**, often through high-profile collaborations. Her evolving musical style has helped Oceanus Folk spread globally, inspiring a new generation of artists.
+
+In **2040**, local journalist **Silas Reed** embarks on a project titled *Oceanus Folk: Then-and-Now* to chronicle Sailor’s career and the genre's growth. He has compiled a **knowledge graph** containing detailed data on artists, songs, albums, producers, and musical influences. The goal is to **visualize and analyze this data** to uncover deeper insights into Sailor’s impact and the evolution of Oceanus Folk music.
 
 # Storyboards
 
@@ -109,3 +115,5 @@ In that exercise, we performed the core influence and collaboration analyses on 
 To streamline the development of the interactive dashboard, the processed datasets and visual outputs were exported as .rds files. These R data files served as the foundation for the Shiny App’s dynamic visualizations and dashboards. This approach allowed us to focus on effective storytelling and interactivity in the Shiny App.
 
 # Meeting Minutes ()
+
+![Meeting of Minutes](images/Group 4 - Minutes of meetings.docx)
