@@ -10,15 +10,17 @@ execute:
   freeze: true
 ---
 
-# Overview (Project description, motivation, objectives)
+# Overview
 
-### Summary of Motivation and Overview
+## Background
 
-The story centers on **Sailor Shift**, a global music superstar from the island nation of **Oceanus**. Starting in the local genre **Oceanus Folk**, Sailor's success has significantly boosted the genre’s international recognition and contributed to increased tourism to Oceanus. Her journey from a small band member in **Ivy Echoes** to a record-breaking solo artist highlights her influence on both the music world and her former bandmates, who also continue to shape the genre.
+-   The story centers on **Sailor Shift**, a global music superstar from the island nation of **Oceanus**. Starting in the local genre **Oceanus Folk**, Sailor's success has significantly boosted the genre’s international recognition and contributed to increased tourism to Oceanus. Her journey from a small band member in **Ivy Echoes** to a record-breaking solo artist highlights her influence on both the music world and her former bandmates, who also continue to shape the genre.
 
-Sailor is known for her dedication to **promoting Oceanus Folk and supporting emerging artists**, often through high-profile collaborations. Her evolving musical style has helped Oceanus Folk spread globally, inspiring a new generation of artists.
+-   Sailor is known for her dedication to **promoting Oceanus Folk and supporting emerging artists**, often through high-profile collaborations. Her evolving musical style has helped Oceanus Folk spread globally, inspiring a new generation of artists.
 
-In **2040**, local journalist **Silas Reed** embarks on a project titled *Oceanus Folk: Then-and-Now* to chronicle Sailor’s career and the genre's growth. He has compiled a **knowledge graph** containing detailed data on artists, songs, albums, producers, and musical influences. The goal is to **visualize and analyze this data** to uncover deeper insights into Sailor’s impact and the evolution of Oceanus Folk music.
+## Motivation 
+
+-   In **2040**, local journalist **Silas Reed** embarks on a project titled *Oceanus Folk: Then-and-Now* to chronicle Sailor’s career and the genre's growth. He has compiled a **knowledge graph** containing detailed data on artists, songs, albums, producers, and musical influences. The goal is to **visualize and analyze this data** to uncover deeper insights into Sailor’s impact and the evolution of Oceanus Folk music.
 
 # Storyboards
 
@@ -106,14 +108,118 @@ UI Features:
 
 The analysis and results presented in the Shiny App were derived from the earlier exploration and data analysis conducted in
 
--   [Lester_Take-Home Exercise 1](https://lesteronthecouchisss608.netlify.app/take-home_ex/take-home_ex02/take-home_ex02)
+-   [Lester_Take-Home Exercise 2](https://lesteronthecouchisss608.netlify.app/take-home_ex/take-home_ex02/take-home_ex02)
 
--   [MGTR Take-Home Exercise 1](https://isss608-ay2024-2025.netlify.app/take-home_ex/take-home_ex01/take-home_ex01){style="font-size: 11pt;"}
+-   [MGTR Take-Home Exercise 2](https://isss608-ay2024-2025.netlify.app/take-home_ex/take-home_ex02/take-home_ex02){style="font-size: 11pt;"}
 
 In that exercise, we performed the core influence and collaboration analyses on Sailor Shift and the Oceanus Folk genre, generating key visual outputs and data summaries.
 
 To streamline the development of the interactive dashboard, the processed datasets and visual outputs were exported as .rds files. These R data files served as the foundation for the Shiny App’s dynamic visualizations and dashboards. This approach allowed us to focus on effective storytelling and interactivity in the Shiny App.
 
-# Meeting Minutes ()
+# Meeting Minutes
 
-![Meeting of Minutes](images/Group%204%20-%20Minutes%20of%20meetings.docx)
+You can also download the meeting minutes document here:📥 [Download (PDF)](MeetingMinDoc/MeetingMins.pdf)
+
+**Group 4 – Minutes of Meeting**
+
+### **Project Deliverables and Assignments**
+
+|     |                    |     |                        |     |
+|-----|--------------------|-----|------------------------|-----|
+|     |                    |     |                        |     |
+|     | **Deliverable**    |     | **Assigned Member(s)** |     |
+|     |                    |     |                        |     |
+|     | Project Website    |     | Marga Thura (MT)       |     |
+|     |                    |     |                        |     |
+|     | Minutes of Meeting |     | Peng Hsiao Yuan (Peng) |     |
+|     |                    |     |                        |     |
+|     | Poster             |     | Peng                   |     |
+|     |                    |     |                        |     |
+|     | Peer Evaluation    |     | Peng / MT              |     |
+|     |                    |     |                        |     |
+|     | User Guide         |     | Peng / MT              |     |
+|     |                    |     |                        |     |
+
+### **Meeting 1 – June 24, 2025**
+
+**Main Topics Discussed:**
+
+**Shiny App Development**:
+
+Initial focus is on writing the backend code.
+
+Updates to be done by Marga after code is in place.
+
+**Hosting Update**:
+
+Discussed Netlify as the deployment platform for the Shiny App interface.
+
+**Assigned Tasks (To Be Completed by June 28):**
+
+**Task 1 & 3**: Assigned to Marga Thura
+
+**Task 2**: Assigned to Peng Hsiao Yuan
+
+**Data Preparation:**
+
+Present all datasets used in the analysis in clear tabular format.
+
+**Support Materials:**
+
+Use *Shiny Cheat Sheets* for reference on UI functions.
+
+**Development Workflow:**
+
+1.Build the entire UI layout based on the initial project proposal.
+
+2.Hold internal discussions for further UI/UX improvements.
+
+3.Ensure the UI is intuitive and aligned with user needs.
+
+### **Meeting 2 – June 25, 2025**
+
+**Progress Updates:**
+
+**Marga**: Task 1, Task 3, and data section implementation.
+
+**Peng**: Task 2 and storyboard development.
+
+**Poster Design**: To be handled by both.
+
+**Task Prioritization:**
+
+**1.Code and Content Development**
+
+**2.Storyboards & Data Duration**
+
+**3.Poster Design**
+
+### **Meeting 3 – June 28, 2025**
+
+**Progress Updates:**
+
+**Error Fixing –** Empty Data
+
+**Connecting to Git –** Pull/Push the data - Marga
+
+**Shiny App Layout design –** Searching by Both
+
+**Task: In-progress**
+
+**Design Layout –** Shiny App Theme and refining graph colors
+
+**Dashboards:** Summary Information
+
+### **Meeting 4 – June 30, 2025**
+
+**Progress Updates:**
+
+Quarto websites: Done
+
+Shiny App: Done
+
+Poster: Done
+
+Dashboards: Done
+
+User Guide: Done
