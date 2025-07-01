@@ -116,4 +116,4 @@ To streamline the development of the interactive dashboard, the processed datase
 
 # Meeting Minutes ()
 
-![Meeting of Minutes](images/Group 4 - Minutes of meetings.docx)
+![Meeting of Minutes](images/Group%204%20-%20Minutes%20of%20meetings.docx)
